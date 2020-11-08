@@ -8,6 +8,16 @@
   year={2019}
 } 
 ```
+COPIED
+
+
+1. Dwnld ucf101
+2. run vid2img_ucf
+3.fix file paths and run
+
+
+
+
 
 **[NEW!]** We update the environment setup for the `online_demo`, and should be much easier to set up. Check the folder for a try!
 
